@@ -1,0 +1,202 @@
+[
+    {
+        "nume": "EcoGreen 550 Pro",
+        "firma": "Epic Gear",
+        "pret": 150,
+        "consum": 500,
+        "id": 1,
+        "modulara": "Da",
+        "capacitate": 550,
+        "certificare": "80+ Gold"
+    },
+    {
+        "nume": "EcoGreen 350 Pro",
+        "firma": "Epic Gear",
+        "pret": 130,
+        "consum": 450,
+        "id": 2,
+        "modulara": "Da",
+        "capacitate": 350,
+        "certificare": "80+ Gold"
+    },
+    {
+        "nume": "Gas VR 750",
+        "firma": "Gasneo",
+        "pret": 200,
+        "consum": 700,
+        "id": 3,
+        "modulara": "Da",
+        "capacitate": 750,
+        "certificare": "80+ Platinum"
+    },
+    {
+        "nume": "Gas VR 650",
+        "firma": "Gasneo",
+        "pret": 160,
+        "consum": 500,
+        "id": 4,
+        "modulara": "Da",
+        "capacitate": 650,
+        "certificare": "80+ Platinum"
+    },
+    {
+        "nume": "Neon Bronze 600",
+        "firma": "Neoxio",
+        "pret": 120,
+        "consum": 600,
+        "id": 5,
+        "modulara": "Nu",
+        "capacitate": 600,
+        "certificare": "80+ Bronze"
+    },
+    {
+        "nume": "Neon Bronze 500",
+        "firma": "Neoxio",
+        "pret": 105,
+        "consum": 500,
+        "id": 6,
+        "modulara": "Nu",
+        "capacitate": 500,
+        "certificare": "80+ Bronze"
+    },
+    {
+        "nume": "Fanta Gamer 900",
+        "firma": "Cyutron",
+        "pret": 200,
+        "consum": 800,
+        "id": 7,
+        "modulara": "Da",
+        "capacitate": 900,
+        "certificare": "80+ Platinum"
+    },
+    {
+        "nume": "Fanta Gamer 750",
+        "firma": "Cyutron",
+        "pret": 140,
+        "consum": 600,
+        "id": 8,
+        "modulara": "Da",
+        "capacitate": 750,
+        "certificare": "80+ Platinum"
+    },
+    {
+        "nume": "Geo 850",
+        "firma": "Geosafe",
+        "pret": 150,
+        "consum": 750,
+        "id": 9,
+        "modulara": "Da",
+        "capacitate": 850,
+        "certificare": "80+ Gold"
+    },
+    {
+        "nume": "Geo 750",
+        "firma": "Geosafe",
+        "pret": 140,
+        "consum": 600,
+        "id": 10,
+        "modulara": "Da",
+        "capacitate": 750,
+        "certificare": "80+ Gold"
+    },
+    {
+        "nume": "Kore 750",
+        "firma": "Korex",
+        "pret": 110,
+        "consum": 550,
+        "id": 11,
+        "modulara": "Da",
+        "capacitate": 750,
+        "certificare": "80+ Bronze"
+    },
+    {
+        "nume": "Kore 600",
+        "firma": "Korex",
+        "pret": 100,
+        "consum": 400,
+        "id": 12,
+        "modulara": "Da",
+        "capacitate": 600,
+        "certificare": "80+ Bronze"
+    },
+    {
+        "nume": "Vent 700",
+        "firma": "Airent",
+        "pret": 130,
+        "consum": 500,
+        "id": 13,
+        "modulara": "Da",
+        "capacitate": 700,
+        "certificare": "80 Plus"
+    },
+    {
+        "nume": "Vent 500",
+        "firma": "Airent",
+        "pret": 140,
+        "consum": 400,
+        "id": 14,
+        "modulara": "Da",
+        "capacitate": 500,
+        "certificare": "80 Plus"
+    },
+    {
+        "nume": "Cirrus 850",
+        "firma": "Artech",
+        "pret": 170,
+        "consum": 750,
+        "id": 15,
+        "modulara": "Da",
+        "capacitate": 850,
+        "certificare": "80+ Titanium"
+    },
+    {
+        "nume": "Cirrus 750",
+        "firma": "Artech",
+        "pret": 140,
+        "consum": 650,
+        "id": 16,
+        "modulara": "Da",
+        "capacitate": 750,
+        "certificare": "80+ Titanium"
+    },
+    {
+        "nume": "Luma 750",
+        "firma": "Lumar",
+        "pret": 150,
+        "consum": 650,
+        "id": 17,
+        "modulara": "Da",
+        "capacitate": 750,
+        "certificare": "80+ Silver"
+    },
+    {
+        "nume": "Luma 600",
+        "firma": "Lumar",
+        "pret": 130,
+        "consum": 550,
+        "id": 18,
+        "modulara": "Da",
+        "capacitate": 600,
+        "certificare": "80+ Silver"
+    },
+    {
+        "nume": "Vita 850",
+        "firma": "Vitalip",
+        "pret": 175,
+        "consum": 800,
+        "id": 19,
+        "modulara": "Da",
+        "capacitate": 850,
+        "certificare": "80 Plus"
+    },
+    {
+        "nume": "Vita 700",
+        "firma": "Vitalip",
+        "pret": 140,
+        "consum": 700,
+        "id": 20,
+        "modulara": "Da",
+        "capacitate": 700,
+        "certificare": "80 Plus"
+    }
+]

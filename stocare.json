@@ -1,0 +1,222 @@
+[
+    {
+        "nume": "HDD Seagate Barracuda",
+        "firma": "Seagate",
+        "pret": 300,
+        "consum": "20",
+        "id": "1",
+        "viteza_scriere": "120",
+        "viteza_citire": "150",
+        "capacitate": "1TB",
+        "tip": "HDD"
+    },
+    {
+        "nume": "SSD Corsair",
+        "firma": "Corsair",
+        "pret": 400,
+        "consum": "10",
+        "id": "2",
+        "viteza_scriere": "480",
+        "viteza_citire": "520",
+        "capacitate": "1TB",
+        "tip": "SSD"
+    },
+    {
+        "nume": "HDD WD Blue",
+        "firma": "WD",
+        "pret": 250,
+        "consum": "25",
+        "id": "3",
+        "viteza_scriere": "90",
+        "viteza_citire": "180",
+        "capacitate": "1TB",
+        "tip": "HDD"
+    },
+    {
+        "nume": "SSD Kingston A400",
+        "firma": "Kingston",
+        "pret": 350,
+        "consum": "5",
+        "id": "4",
+        "viteza_scriere": "450",
+        "viteza_citire": "540",
+        "capacitate": "1TB",
+        "tip": "SSD"
+    },
+    {
+        "nume": "HDD Toshiba P300",
+        "firma": "Toshiba",
+        "pret": 270,
+        "consum": "15",
+        "id": "5",
+        "viteza_scriere": "100",
+        "viteza_citire": "150",
+        "capacitate": "1TB",
+        "tip": "HDD"
+    },
+    {
+        "nume": "SSD Corsair Neutron NX500",
+        "firma": "Corsair",
+        "pret": 480,
+        "consum": "7",
+        "id": "6",
+        "viteza_scriere": "550",
+        "viteza_citire": "600",
+        "capacitate": "1TB",
+        "tip": "SSD"
+    },
+    {
+        "nume": "HDD Seagate FireCuda",
+        "firma": "Seagate",
+        "pret": 320,
+        "consum": "17",
+        "id": "7",
+        "viteza_scriere": "110",
+        "viteza_citire": "200",
+        "capacitate": "1TB",
+        "tip": "HDD"
+    },
+    {
+        "nume": "SSD Samsung 860 EVO",
+        "firma": "Samsung",
+        "pret": 400,
+        "consum": "10",
+        "id": "8",
+        "viteza_scriere": "520",
+        "viteza_citire": "550",
+        "capacitate": "1TB",
+        "tip": "SSD"
+    },
+    {
+        "nume": "HDD Seagate SkyHawk",
+        "firma": "Seagate",
+        "pret": 350,
+        "consum": "27",
+        "id": "9",
+        "viteza_scriere": "90",
+        "viteza_citire": "180",
+        "capacitate": "1TB",
+        "tip": "HDD"
+    },
+    {
+        "nume": "SSD Intel 760p",
+        "firma": "Intel",
+        "pret": 380,
+        "consum": "2",
+        "id": "10",
+        "viteza_scriere": "480",
+        "viteza_citire": "560",
+        "capacitate": "1TB",
+        "tip": "SSD"
+    },
+    {
+        "nume": "HDD HGST Deskstar",
+        "firma": "HGST",
+        "pret": 320,
+        "consum": "20",
+        "id": "11",
+        "viteza_scriere": "100",
+        "viteza_citire": "110",
+        "capacitate": "1TB",
+        "tip": "HDD"
+    },
+    {
+        "nume": "SSD OCZ RD400",
+        "firma": "OCZ",
+        "pret": 500,
+        "consum": "7",
+        "id": "12",
+        "viteza_scriere": "520",
+        "viteza_citire": "600",
+        "capacitate": "1TB",
+        "tip": "SSD"
+    },
+    {
+        "nume": "SSD WD Black",
+        "firma": "WD",
+        "pret": 500,
+        "consum": "10",
+        "id": "13",
+        "viteza_scriere": "560",
+        "viteza_citire": "600",
+        "capacitate": "1TB",
+        "tip": "SSD"
+    },
+    {
+        "nume": "HDD HGST Ultrastar",
+        "firma": "HGST",
+        "pret": 300,
+        "consum": "25",
+        "id": "14",
+        "viteza_scriere": "90",
+        "viteza_citire": "150",
+        "capacitate": "1TB",
+        "tip": "HDD"
+    },
+    {
+        "nume": "SSD Samsung 860 QVO",
+        "firma": "Samsung",
+        "pret": 420,
+        "consum": "7",
+        "id": "15",
+        "viteza_scriere": "480",
+        "viteza_citire": "550",
+        "capacitate": "1TB",
+        "tip": "SSD"
+    },
+    {
+        "nume": "HDD Toshiba X300",
+        "firma": "Toshiba",
+        "pret": 340,
+        "consum": "15",
+        "id": "16",
+        "viteza_scriere": "100",
+        "viteza_citire": "125",
+        "capacitate": "1TB",
+        "tip": "HDD"
+    },
+    {
+        "nume": "SSD Samsung 970 Pro",
+        "firma": "Samsung",
+        "pret": 600,
+        "consum": "7",
+        "id": "17",
+        "viteza_scriere": "560",
+        "viteza_citire": "650",
+        "capacitate": "1TB",
+        "tip": "HDD"
+    },
+    {
+        "nume": "SSD Intel 750",
+        "firma": "Intel",
+        "pret": 570,
+        "consum": "2",
+        "id": "18",
+        "viteza_scriere": "520",
+        "viteza_citire": "600",
+        "capacitate": "1TB",
+        "tip": "SSD"
+    },
+    {
+        "nume": "HDD WD Red",
+        "firma": "WD",
+        "pret": 280,
+        "consum": "20",
+        "id": "19",
+        "viteza_scriere": "90",
+        "viteza_citire": "160",
+        "capacitate": "1TB",
+        "tip": "HDD"
+    },
+    {
+        "nume": "SSD Patriot Scorch",
+        "firma": "Patriot",
+        "pret": 490,
+        "consum": "3",
+        "id": "20",
+        "viteza_scriere": "480",
+        "viteza_citire": "520",
+        "capacitate": "1TB",
+        "tip": "SSD"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "nume": "Geforce GTX 1080 Ti",
+        "firma": "Nvidia",
+        "pret": 2950,
+        "consum": 260,
+        "id": 1,
+        "an": 2017
+    },
+    {
+        "nume": "GeForce RTX 2060 SUPER",
+        "firma": "Nvidia",
+        "pret": 2550,
+        "consum": 175,
+        "id": 2,
+        "an": 2019
+    },
+    {
+        "nume": "GeForce RTX 2080 SUPER",
+        "firma": "Nvidia",
+        "pret": 3550,
+        "consum": 250,
+        "id": 3,
+        "an": 2019
+    },
+    {
+        "nume": "AMD Radeon RX 5700 XT",
+        "firma": "AMD",
+        "pret": 2300,
+        "consum": 225,
+        "id": 4,
+        "an": 2019
+    },
+    {
+        "nume": "GeForce RTX 2070 SUPER",
+        "firma": "Nvidia",
+        "pret": 2850,
+        "consum": 215,
+        "id": 5,
+        "an": 2019
+    },
+    {
+        "nume": "GeForce RTX 2080 Ti",
+        "firma": "Nvidia",
+        "pret": 4500,
+        "consum": 350,
+        "id": 6,
+        "an": 2018
+    },
+    {
+        "nume": "Radeon RX 560X",
+        "firma": "AMD",
+        "pret": 1050,
+        "consum": 80,
+        "id": 7,
+        "an": 2017
+    },
+    {
+        "nume": "AMD Radeon VII",
+        "firma": "AMD",
+        "pret": 4000,
+        "consum": 300,
+        "id": 8,
+        "an": 2019
+    },
+    {
+        "nume": "Radeon Pro V340 MxGPU",
+        "firma": "AMD",
+        "pret": 8583,
+        "consum": 72,
+        "id": 9,
+        "an": 2017
+    },
+    {
+        "nume": "GeForce GTX 1660 SUPER",
+        "firma": "Nvidia",
+        "pret": 1980,
+        "consum": 125,
+        "id": 10,
+        "an": 2019
+    },
+    {
+        "nume": "AMD Radeon RX 550",
+        "firma": "AMD",
+        "pret": 750,
+        "consum": 50,
+        "id": 11,
+        "an": 2017
+    },
+    {
+        "nume": "GeForce RTX 2060",
+        "firma": "Nvidia",
+        "pret": 1700,
+        "consum": 160,
+        "id": 12,
+        "an": 2018
+    },
+    {
+        "nume": "GeForce RTX 2080 Ti Founders Edition",
+        "firma": "Nvidia",
+        "pret": 5300,
+        "consum": 375,
+        "id": 13,
+        "an": 2018
+    },
+    {
+        "nume": "GeForce GTX 780",
+        "firma": "Nvidia",
+        "pret": 1200,
+        "consum": 250,
+        "id": 14,
+        "an": 2013
+    },
+    {
+        "nume": "AMD FirePro S7150x2",
+        "firma": "AMD",
+        "pret": 3192,
+        "consum": 400,
+        "id": 15,
+        "an": 2017
+    },
+    {
+        "nume": "AMD Radeon RX 580",
+        "firma": "AMD",
+        "pret": 1250,
+        "consum": 185,
+        "id": 16,
+        "an": 2017
+    },
+    {
+        "nume": "AMD FirePro S9170",
+        "firma": "AMD",
+        "pret": 7500,
+        "consum": 375,
+        "id": 17,
+        "an": 2015
+    },
+    {
+        "nume": "GeForce GTX 960",
+        "firma": "Nvidia",
+        "pret": 760,
+        "consum": 120,
+        "id": 18,
+        "an": 2015
+    },
+    {
+        "nume": "GeForce GTX 1070 Ti",
+        "firma": "Nvidia",
+        "pret": 2200,
+        "consum": 180,
+        "id": 19,
+        "an": 2017
+    },
+    {
+        "nume": "GeForce GTX TITAN X",
+        "firma": "Nvidia",
+        "pret": 2930,
+        "consum": 250,
+        "id": 20,
+        "an": 2015
+    }
+]

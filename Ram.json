@@ -1,0 +1,222 @@
+[
+    {
+        "nume": "Viper",
+        "firma": "Corsair",
+        "pret": 350,
+        "consum": 35,
+        "id": 1,
+        "versiune_ddr": "DDR4",
+        "capacitate": 16,
+        "viteza": 3200,
+        "frecventa": "cl16"
+    },
+    {
+        "nume": "Trident",
+        "firma": "G.Skill",
+        "pret": 540,
+        "consum": 23,
+        "id": 2,
+        "versiune_ddr": "DDR4",
+        "capacitate": 16,
+        "viteza": 3600,
+        "frecventa": "cl16"
+    },
+    {
+        "nume": "Dominator Platinum",
+        "firma": "Corsair",
+        "pret": 1600,
+        "consum": 28,
+        "id": 3,
+        "versiune_ddr": "DDR4",
+        "capacitate": 32,
+        "viteza": 3200,
+        "frecventa": "cl16"
+    },
+    {
+        "nume": "Ripjaws",
+        "firma": "G.Skill",
+        "pret": 900,
+        "consum": 25,
+        "id": 4,
+        "versiune_ddr": "DDR4",
+        "capacitate": 16,
+        "viteza": 4000,
+        "frecventa": "cl20"
+    },
+    {
+        "nume": "Squad",
+        "firma": "HyperX",
+        "pret": 560,
+        "consum": 24,
+        "id": 5,
+        "versiune_ddr": "DDR4",
+        "capacitate": 8,
+        "viteza": 3200,
+        "frecventa": "cl16"
+    },
+    {
+        "nume": "Flare X",
+        "firma": "O.C.M",
+        "pret": 300,
+        "consum": 26,
+        "id": 6,
+        "versiune_ddr": "DDR3",
+        "capacitate": 8,
+        "viteza": 1600,
+        "frecventa": "cl9"
+    },
+    {
+        "nume": "Force",
+        "firma": "G.Skill",
+        "pret": 340,
+        "consum": 26,
+        "id": 7,
+        "versiune_ddr": "DDR3",
+        "capacitate": 8,
+        "viteza": 1600,
+        "frecventa": "cl10"
+    },
+    {
+        "nume": "Neo Forza",
+        "firma": "Corsair",
+        "pret": 240,
+        "consum": 25,
+        "id": 8,
+        "versiune_ddr": "DDR4",
+        "capacitate": 8,
+        "viteza": 2133,
+        "frecventa": "cl13"
+    },
+    {
+        "nume": "Trident",
+        "firma": "G.Skill",
+        "pret": 260,
+        "consum": 35,
+        "id": 9,
+        "versiune_ddr": "DDR4",
+        "capacitate": 8,
+        "viteza": 2400,
+        "frecventa": "cl14"
+    },
+    {
+        "nume": "Ripjaws",
+        "firma": "G.Skill",
+        "pret": 560,
+        "consum": 30,
+        "id": 10,
+        "versiune_ddr": "DDR3",
+        "capacitate": 16,
+        "viteza": 1600,
+        "frecventa": "cl9"
+    },
+    {
+        "nume": "Vengeance",
+        "firma": "Corsair",
+        "pret": 400,
+        "consum": 35,
+        "id": 11,
+        "versiune_ddr": "DDR4",
+        "capacitate": 16,
+        "viteza": 2400,
+        "frecventa": "cl13"
+    },
+    {
+        "nume": "Ripjaws",
+        "firma": "G.Skill",
+        "pret": 800,
+        "consum": 26,
+        "id": 12,
+        "versiune_ddr": "DDR4",
+        "capacitate": 16,
+        "viteza": 3000,
+        "frecventa": "cl19"
+    },
+    {
+        "nume": "Fury",
+        "firma": "HyperX",
+        "pret": 800,
+        "consum": 26,
+        "id": 13,
+        "versiune_ddr": "DDR4",
+        "capacitate": 16,
+        "viteza": 3200,
+        "frecventa": "cl18"
+    },
+    {
+        "nume": "Viper",
+        "firma": "Corsair",
+        "pret": 680,
+        "consum": 28,
+        "id": 14,
+        "versiune_ddr": "DDR4",
+        "capacitate": 16,
+        "viteza": 2400,
+        "frecventa": "cl14"
+    },
+    {
+        "nume": "8 GB DDR4",
+        "firma": "Komputerbay",
+        "pret": 170,
+        "consum": 29,
+        "id": 15,
+        "versiune_ddr": "DDR4",
+        "capacitate": 8,
+        "viteza": 2666,
+        "frecventa": "cl15"
+    },
+    {
+        "nume": "Ripjaws V",
+        "firma": "G.Skill",
+        "pret": 740,
+        "consum": 31,
+        "id": 16,
+        "versiune_ddr": "DDR4",
+        "capacitate": 16,
+        "viteza": 2800,
+        "frecventa": "cl17"
+    },
+    {
+        "nume": "AEGIS",
+        "firma": "Team",
+        "pret": 240,
+        "consum": 25,
+        "id": 17,
+        "versiune_ddr": "DDR4",
+        "capacitate": 8,
+        "viteza": 2133,
+        "frecventa": "cl14"
+    },
+    {
+        "nume": "Dominator",
+        "firma": "Corsair",
+        "pret": 1050,
+        "consum": 29,
+        "id": 18,
+        "versiune_ddr": "DDR4",
+        "capacitate": 32,
+        "viteza": 3200,
+        "frecventa": "cl16"
+    },
+    {
+        "nume": "Force",
+        "firma": "G.Skill",
+        "pret": 580,
+        "consum": 27,
+        "id": 19,
+        "versiune_ddr": "DDR3",
+        "capacitate": 16,
+        "viteza": 1600,
+        "frecventa": "cl11"
+    },
+    {
+        "nume": "Aegis II",
+        "firma": "Team",
+        "pret": 260,
+        "consum": 24,
+        "id": 20,
+        "versiune_ddr": "DDR4",
+        "capacitate": 8,
+        "viteza": 2133,
+        "frecventa": "cl13"
+    }
+]
